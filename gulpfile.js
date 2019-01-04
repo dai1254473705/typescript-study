@@ -16,7 +16,7 @@ var path = {
     dist: {
         ts: {
             output: {
-                any: './js'
+                any: './dist'
             }
         }
     }
